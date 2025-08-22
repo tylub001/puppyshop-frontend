@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/puppy-shop/static/css/main.d17ddcc9.css",
-    "main.js": "/puppy-shop/static/js/main.1eacbd10.js",
-    "static/js/453.0e4be022.chunk.js": "/puppy-shop/static/js/453.0e4be022.chunk.js",
-    "index.html": "/puppy-shop/index.html",
-    "main.d17ddcc9.css.map": "/puppy-shop/static/css/main.d17ddcc9.css.map",
-    "main.1eacbd10.js.map": "/puppy-shop/static/js/main.1eacbd10.js.map",
-    "453.0e4be022.chunk.js.map": "/puppy-shop/static/js/453.0e4be022.chunk.js.map"
+    "main.css": "/puppyshop-frontend/static/css/main.d17ddcc9.css",
+    "main.js": "/puppyshop-frontend/static/js/main.8b09626d.js",
+    "static/js/453.0e4be022.chunk.js": "/puppyshop-frontend/static/js/453.0e4be022.chunk.js",
+    "index.html": "/puppyshop-frontend/index.html",
+    "main.d17ddcc9.css.map": "/puppyshop-frontend/static/css/main.d17ddcc9.css.map",
+    "main.8b09626d.js.map": "/puppyshop-frontend/static/js/main.8b09626d.js.map",
+    "453.0e4be022.chunk.js.map": "/puppyshop-frontend/static/js/453.0e4be022.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d17ddcc9.css",
-    "static/js/main.1eacbd10.js"
+    "static/js/main.8b09626d.js"
   ]
 }
